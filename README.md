@@ -1,7 +1,7 @@
 # Pneumonia-Prediction_SmartInternz
 
 
-Pneumonia is the leading cause of death among youngchildren  and  one  of  the  top  mortality  causes  worldwide.The pneumonia detection is usually performed through ex-amine of chest X-ray radiograph by highly-trained special-ists.  This process is tedious and often leads to a disagree-ment between radiologists.  Computer-aided diagnosis systems showed the potential for improving diagnostic accuracy. In this work, we develop the computational approach for pneumonia regions detection based on deep  convolution  neural  net-works,  augmentations  and  multi-task  learning.
+Pneumonia is the leading cause of death among young children and one of the top mortalities causes worldwide. The pneumonia detection is usually performed through examine of chest X-ray radiograph by highly-trained specialists. This process is tedious and often leads to a disagreement between radiologists. Computer-aided diagnosis systems showed the potential for improving diagnostic accuracy. In this work, we develop the computational approach for pneumonia regions detection based on deep convolution neural net-works, augmentations and multi-task learning.
 
 Dataset Taken From Kaggle - https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 
