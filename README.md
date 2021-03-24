@@ -19,7 +19,7 @@ To run the project, perform the following steps in order : -
 
 (2) After the model is saved, run the predict.ipynb using Jupyter Lab or Jupyter Notebook.
 
-## With Interface 
+## With Interface  :
 
 (1) Run train.ipynb file using Jupyter Lab or Jupyter Notebook.
 
