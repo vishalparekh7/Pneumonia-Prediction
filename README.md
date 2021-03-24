@@ -25,7 +25,7 @@ To run the project, perform the following steps in order : -
 
 (2) A model will be saved with extension filename.h5.
 
-(3) Move that .h5 into spyder/models folder.
+(3) Move that .h5 file into 'spyder/models' folder.
 
 (4) Now open command prompt and move to your spyder directory.
 
